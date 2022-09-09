@@ -13,11 +13,11 @@ int main(void)
 	{
 		putchar(a);
 	}
-	for (a = 'A'; A <= 'Z'; A++)
+	for (A = 'A'; A <= 'Z'; A++)
 	{
 		putchar(A);
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
 
