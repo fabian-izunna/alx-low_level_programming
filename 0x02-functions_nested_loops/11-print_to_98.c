@@ -3,6 +3,7 @@
 
 /**
 * print_to_98 - prints natural numbers
+* @n: holds the arg
 * Return: void
 */
 void print_to_98(int n)
