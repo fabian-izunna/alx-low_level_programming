@@ -2,7 +2,7 @@
 
 /**
 * _isalpha - checks for alpha
-* @c - incput checked
+* @c: incput checked
 * Return: 0
 */
 int _isalpha(int c)
