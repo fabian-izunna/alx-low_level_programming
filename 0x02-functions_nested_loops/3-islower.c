@@ -3,6 +3,7 @@
 /**
 * _islower - compares letters
 * Return: 0
+* @c: input compared
 */
 int _islower(int c)
 {
