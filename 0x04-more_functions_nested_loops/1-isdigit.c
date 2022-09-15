@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-* _isupper - heks letters
+* _isdigit - heks letters
 * @c: ithe integer
 * Return: o
 */
-int _isupper(int c)
+int _isdigit(int c)
 {
 	if ((c >= 48) && (c <= 57))
 	{
