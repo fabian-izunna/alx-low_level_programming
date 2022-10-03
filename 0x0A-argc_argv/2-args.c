@@ -5,7 +5,7 @@
 * main - Prints all arguments passed into main
 * @argc: the arg
 * @argv: arg vector
-* Return (0)
+* Return: (0)
 */
 int main(int argc, char *argv[])
 {
