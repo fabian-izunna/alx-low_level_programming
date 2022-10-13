@@ -27,7 +27,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	length = 0;
 	for (index = 0; s1[index]; index++)
 		ptr[length++] = s1[index];
-	for (index = 0; s2[index] && index < n;)
+	for (index = 0; s2[index] && index < n; index++)
 		ptr[length++] = s2[index];
 	ptr[length] = '\0';
 	return (ptr);
