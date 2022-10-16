@@ -1,1 +1,1 @@
-This repository is for low level engineering in alx
+This folder is fot variadic functions
